@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Pfaffikus</title>
+  <link>http://www.pfaffikus.de</link>
+  <description>On this channel changes on the Internet-Site www.pfaffikus.de will be announced, but the channel will also be utilized for announcing updates with respect to the maintained R packages and complimentary material to the published books.</description>
+  <lastBuildDate>Sun, 19 May 2013 16:13:46 GMT</lastBuildDate>
+  <language>en-us</language>
+  <atom:link href="http://www.pfaffikus.de/rss.xml" rel="self" type="application/rss+xml" /> 
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <item>
+   <title>R in Finance 2013: Presentation</title>
+   <link>http://www.pfaffikus.de/files/conf/rif/rif2013.pdf</link>
+   <description>The presentation of this year's R in Finance conference has been made available for download.</description>
+   <pubDate>Sun, 19 May 2013 16:13:21 GMT</pubDate>
+  </item>
+  <item>
+   <title>FRAPO released on R-Forge</title>
+   <link>http://r-forge.r-project.org/projects/frapo/</link>
+   <description>The R package 'FRAPO' accompanying the book 'Financial Risk Modelling and Portfolio Optimization with R' has been uploaded to R-Forge. The book will become available before Christmas in Europe and by end-of-January in the US.</description>
+   <pubDate>Tue, 20 Nov 2012 18:55:35 GMT</pubDate>
+  </item>
+  <item>
+   <title>Latest R-Forge version of packages on CRAN and Pfaffikus</title>
+   <link>http://www.pfaffikus.de</link>
+   <description>The latest development versions of the packages evir, gogarch, QRM, rneos, urca and vars have been contributed from R-Forge to CRAN. These versions are also made available on the Pfaffikus-Site (source and Windows-binary).</description>
+   <pubDate>Wed, 01 Aug 2012 16:00:47 GMT</pubDate>
+  </item>
+  <item>
+   <title>Authors@R directive now in evir, QRM, rneos, urca and vars on R-Forge</title>
+   <link>http://r-forge.r-project.org/users/bpfaff/</link>
+   <description>In the development versions of the above packages, Authors@R fields have been included in their respective DESCRIPTION files. In the case of the packages evir, QRM, urca and vars, the packages' heritages and/or the contributors are now accounted for by means of the person() function.</description>
+   <pubDate>Sun, 22 Jul 2012 12:09:34 GMT</pubDate>
+  </item>
+  <item>
+   <title>Package gogarch (R-Forge) with Authors@R</title>
+   <link>http://r-forge.r-project.org/projects/gogarch/</link>
+   <description>Reminded by the recent R Journal article [http://journal.r-project.org/archive/2012-1/RJournal_2012-1_Hornik~et~al.pdf], in the DESCRIPTION file of the gogarch package an Authors@R tag is now used.</description>
+   <pubDate>Sun, 15 Jul 2012 11:04:52 GMT</pubDate>
+   <guid isPermaLink="true">http://r-forge.r-project.org/projects/gogarch/</guid>
+  </item>
+ </channel>
+</rss>
